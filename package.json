@@ -1,0 +1,23 @@
+{
+  "name": "love-is",
+  "version": "1.0.0",
+  "description": "cookie me if you love me ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawblia/JS-cards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawblia/JS-cards/issues"
+  },
+  "homepage": "https://github.com/jawblia/JS-cards"
+}
